@@ -18,7 +18,7 @@ async def on_ready():
         try:
             now = datetime.now()
             current_time = now.strftime("%H:%M:%S")
-            # 'status' est supporté par tous les serveurs minecraft au dessus de la 1.7
+            # servers are supported from 1.7
             status = server.status()
             await client.get_channel(status_channel).send(f"Server : ON 🟩\n {status.players.online} players connected```") # Remove ``` if you don't want a blocky text.
         except:
