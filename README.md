@@ -1,6 +1,6 @@
 # Minecraft Server Status discord bot
 
-<h2>information</h2>
+<h2>Information</h2>
 <h3>For information here, I only give the code not the hosting so you need to host it yourself somewhere (Like raspberry pi for example</h3>
 <br>
 <h3>
