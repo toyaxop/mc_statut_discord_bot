@@ -9,5 +9,5 @@
  <br>
  To define the Discord's channel, make sure Developper mode is active, do right click of the channel of your choice and click on "Copy Channel ID", paste it on the line 9 of the code.
  <br/>
- to define the IP of yout server paste it on the line 20 ans the at the ends of the links ont line 35 ans 45.
+ to define the IP of your server paste it on the line 20 and at the ends of the links ont line 35 ans 45.
 </h3>
