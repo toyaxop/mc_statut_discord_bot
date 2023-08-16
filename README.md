@@ -11,3 +11,4 @@
  <br/>
  To define the IP of your server paste it on the line 20 and at the ends of the links ont line 35 and 45.
 </h3>
+<h6>Readme made by <a href="https://github.com/niouf07">Niouf</a></h6>
